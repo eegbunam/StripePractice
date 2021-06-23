@@ -1,0 +1,6 @@
+framework module Pods_LearningStripe {
+  umbrella header "Pods-LearningStripe-umbrella.h"
+
+  export *
+  module * { export * }
+}
